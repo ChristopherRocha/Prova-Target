@@ -1,0 +1,15 @@
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\bin\Debug\net8.0\MainTeste.exe
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\bin\Debug\net8.0\MainTeste.deps.json
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\bin\Debug\net8.0\MainTeste.runtimeconfig.json
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\bin\Debug\net8.0\MainTeste.dll
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\bin\Debug\net8.0\MainTeste.pdb
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.AssemblyInfoInputs.cache
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.AssemblyInfo.cs
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.csproj.CoreCompileInputs.cache
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.sourcelink.json
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.dll
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\refint\MainTeste.dll
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.pdb
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\MainTeste.genruntimeconfig.cache
+D:\Projetos-C#\ChristopherRocha\Prova-Target\MainTeste\obj\Debug\net8.0\ref\MainTeste.dll
